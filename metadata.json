@@ -1,0 +1,6 @@
+{
+  "name": "HowToAtlas",
+  "description": "A global, beginner-friendly bilingual tutorial platform in English and Bangla featuring practical step-by-step guides, screenshots, common mistakes, and JSON-based publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
