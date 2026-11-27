@@ -1,7 +1,101 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "guides": [
+    {
+      "id": "guide-1795761413602",
+      "slug": "guide-1795761413602",
+      "category": "media-optimization",
+      "difficulty": "beginner",
+      "readTimeMinutes": 5,
+      "updatedAt": "2026-11-27",
+      "views": 0,
+      "popular": false,
+      "coverImage": "./src/assets/images/guide_github_pages_1795743498387.jpg",
+      "title": {
+        "en": "How to create a Binance account ",
+        "bn": "কীভাবে একটি বাইন্যান্স অ্যাকাউন্ট তৈরি করবেন "
+      },
+      "summary": {
+        "en": "To create a Binance account, first download the Binance app from the Play Store or App Store and tap on Sign Up. Then enter your email address and create a strong password, and verify your email with the OTP code sent to you. After that, complete your identity verification by uploading your NID or Passport and doing a quick face verification selfie. Finally, turn on 2FA for extra security, and your account will be ready to use.",
+        "bn": "বাইনান্স অ্যাকাউন্ট খোলার জন্য প্রথমে প্লে স্টোর বা অ্যাপ স্টোর থেকে বাইনান্স অ্যাপটি ডাউনলোড করে সাইন আপে ক্লিক করুন। এরপর আপনার ইমেইল ঠিকানা দিয়ে একটি শক্তিশালী পাসওয়ার্ড দিন এবং ইমেইলে আসা ওটিপি কোড দিয়ে ভেরিফাই করুন। তারপর আপনার এনআইডি বা পাসপোর্ট দিয়ে আইডেন্টিটি ভেরিফিকেশন সম্পন্ন করুন এবং একটি ফেস ভেরিফিকেশন সেলফি দিন। সবশেষে নিরাপত্তার জন্য টু-এফএ চালু করুন, তাহলেই আপনার অ্যাকাউন্ট ব্যবহারের জন্য প্রস্তুত হয়ে যাবে।"
+      },
+      "videoUrl": "",
+      "videoTitle": {
+        "en": "",
+        "bn": ""
+      },
+      "prerequisites": [
+        {
+          "en": "Basic computer and internet access.",
+          "bn": "কম্পিউটার বা মোবাইল এবং ইন্টারনেট সংযোগ।"
+        }
+      ],
+      "steps": [
+        {
+          "id": "guide-1795761413602-step-1",
+          "title": {
+            "en": "Installation Binance app & email registration ",
+            "bn": "প্রথম ধাপ"
+          },
+          "instruction": {
+            "en": "First, download the official Binance: Buy Bitcoin & Crypto app from the Play Store and tap Open. After opening the app, you will see the Welcome to Binance screen, where you need to enter your Email or Phone number without the country code and tick the Privacy Notice box. Then tap on the yellow Register button. After that, it will ask about your crypto experience, and as a beginner, you should select I'm new to crypto.",
+            "bn": "প্রথমে, প্লে স্টোর থেকে অফিসিয়াল Binance: Buy Bitcoin & Crypto অ্যাপটি ডাউনলোড করুন এবং ওপেন-এ ট্যাপ করুন। অ্যাপটি খোলার পর, আপনি Welcome to Binance স্ক্রিনটি দেখতে পাবেন, যেখানে আপনাকে আপনার ইমেল প্রবেশ করাতে হবে।"
+          },
+          "screenshot": "./src/assets/images/guide_github_pages_1795743498387.jpg",
+          "screenshotCaption": {
+            "en": "Fig. 1 — Step screenshot caption.",
+            "bn": "চিত্র ১ — স্ক্রিনশটের বর্ণনা।"
+          },
+          "tip": {
+            "en": "",
+            "bn": ""
+          }
+        },
+        {
+          "id": "guide-1795761413602-step-1795761955886",
+          "title": {
+            "en": "Creating a Binance account",
+            "bn": "একটি বাইন্যান্স অ্যাকাউন্ট তৈরি করা"
+          },
+          "instruction": {
+            "en": " First, you have to create a strong password that is 8 to 128 characters long and contains at least 1 number and at least 1 upper case letter, then tap on Continue. After that, Binance will send a 6-digit verification code to your email, which you need to enter within 30 minutes and tap on Submit. Once the code is verified correctly, you will see the Welcome aboard screen with a green tick mark, which means your Binance account is ready to use.",
+            "bn": " প্রথমে, আপনাকে ৮ থেকে ১২৮ অক্ষরের একটি শক্তিশালী পাসওয়ার্ড তৈরি করতে হবে, যাতে কমপক্ষে ১টি সংখ্যা এবং কমপক্ষে ১টি বড় হাতের অক্ষর থাকবে, তারপর 'Continue'-তে ট্যাপ করুন। এরপর, Binance আপনাকে ৬ দিনের একটি ইমেল পাঠাবে।"
+          },
+          "screenshot": "",
+          "screenshotCaption": {
+            "en": "",
+            "bn": ""
+          },
+          "tip": {
+            "en": "",
+            "bn": ""
+          }
+        },
+        {
+          "id": "guide-1795761413602-step-1795762105840",
+          "title": {
+            "en": "Identity Verification or KYC.",
+            "bn": "পরিচয় যাচাইকরণ বা কেওয়াইসি।"
+          },
+          "instruction": {
+            "en": "First, select your country or region as Bangladesh from the Document Issuing Country option. Then choose your document type, where NID Card is recommended for Bangladesh, but you can also select Passport. After that, upload your ID by tapping Take Pictures to capture the original ID directly, making sure all information is clearly visible and no copy or screenshot is used. Finally, follow the on-screen instructions for face verification, where you need to show your face clearly in a well-lit area with maximum screen brightness and without glasses, mask, or hat.",
+            "bn": "প্রথমে, ‘ডকুমেন্ট ইস্যুকারী দেশ’ অপশন থেকে আপনার দেশ বা অঞ্চল হিসেবে বাংলাদেশ নির্বাচন করুন। এরপর আপনার ডকুমেন্টের ধরন বেছে নিন, যেখানে বাংলাদেশের জন্য এনআইডি কার্ড সুপারিশ করা হয়েছে, তবে আপনি পাসপোর্টও নির্বাচন করতে পারেন।"
+          },
+          "screenshot": "",
+          "screenshotCaption": {
+            "en": "",
+            "bn": ""
+          },
+          "tip": {
+            "en": "",
+            "bn": ""
+          }
+        }
+      ],
+      "commonMistakes": [],
+      "relatedIds": []
+    },
     {
       "id": "deploy-github-pages",
       "slug": "publish-static-website-github-pages",
@@ -107,7 +201,10 @@
           }
         }
       ],
-      "relatedIds": ["optimize-screenshots-webp", "organize-cloud-folders"]
+      "relatedIds": [
+        "optimize-screenshots-webp",
+        "organize-cloud-folders"
+      ]
     },
     {
       "id": "enable-two-factor-auth",
@@ -194,7 +291,10 @@
           }
         }
       ],
-      "relatedIds": ["deploy-github-pages", "organize-cloud-folders"]
+      "relatedIds": [
+        "deploy-github-pages",
+        "organize-cloud-folders"
+      ]
     },
     {
       "id": "organize-cloud-folders",
@@ -266,7 +366,10 @@
           }
         }
       ],
-      "relatedIds": ["deploy-github-pages", "optimize-screenshots-webp"]
+      "relatedIds": [
+        "deploy-github-pages",
+        "optimize-screenshots-webp"
+      ]
     },
     {
       "id": "optimize-screenshots-webp",
@@ -338,7 +441,10 @@
           }
         }
       ],
-      "relatedIds": ["deploy-github-pages", "organize-cloud-folders"]
+      "relatedIds": [
+        "deploy-github-pages",
+        "organize-cloud-folders"
+      ]
     }
   ]
 }
