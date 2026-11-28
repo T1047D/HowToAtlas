@@ -39,8 +39,8 @@
             "bn": "প্রথম ধাপ"
           },
           "instruction": {
-            "en": "First, download the official Binance: Buy Bitcoin & Crypto app from the Play Store and tap Open. After opening the app, you will see the Welcome to Binance screen, where you need to enter your Email or Phone number without the country code and tick the Privacy Notice box. Then tap on the yellow Register button. After that, it will ask about your crypto experience, and as a beginner, you should select I'm new to crypto.",
-            "bn": "প্রথমে, প্লে স্টোর থেকে অফিসিয়াল Binance: Buy Bitcoin & Crypto অ্যাপটি ডাউনলোড করুন এবং ওপেন-এ ট্যাপ করুন। অ্যাপটি খোলার পর, আপনি Welcome to Binance স্ক্রিনটি দেখতে পাবেন, যেখানে আপনাকে আপনার ইমেল প্রবেশ করাতে হবে।"
+            "en": "First, download the official Binance: Buy Bitcoin & Crypto app from the Play Store and tap Open. After opening the app, select \"I am new to crypto\" to see the Welcome to Binance screen. You will get a page where you need to enter your email or mobile number and then click on the register button.",
+            "bn": "প্রথমে, প্লে স্টোর থেকে অফিসিয়াল Binance: Buy Bitcoin & Crypto অ্যাপটি ডাউনলোড করুন এবং ওপেন-এ ট্যাপ করুন। অ্যাপটি খোলার পর  \"I am new to crypto\"  নির্বাচন করবেন,  Welcome to Binance স্ক্রিনটি দেখতে পাবেন, যেখানে আপনাকে আপনার ইমেল অথবা মোবাইল নাম্বার প্রবেশ করাতে হবে তারপর রেজিস্টার বাটনে ক্লিক করবেন ।"
           },
           "screenshot": "./src/assets/images/Binance1.jpg",
           "screenshotCaption": {
@@ -48,8 +48,8 @@
             "bn": "চিত্র ১ — স্ক্রিনশটের বর্ণনা।"
           },
           "tip": {
-            "en": "",
-            "bn": ""
+            "en": "Email for registration ( Recommend)",
+            "bn": "ই"
           }
         },
         {
@@ -59,8 +59,8 @@
             "bn": "একটি বাইন্যান্স অ্যাকাউন্ট তৈরি করা"
           },
           "instruction": {
-            "en": " First, you have to create a strong password that is 8 to 128 characters long and contains at least 1 number and at least 1 upper case letter, then tap on Continue. After that, Binance will send a 6-digit verification code to your email, which you need to enter within 30 minutes and tap on Submit. Once the code is verified correctly, you will see the Welcome aboard screen with a green tick mark, which means your Binance account is ready to use.",
-            "bn": " প্রথমে, আপনাকে ৮ থেকে ১২৮ অক্ষরের একটি শক্তিশালী পাসওয়ার্ড তৈরি করতে হবে, যাতে কমপক্ষে ১টি সংখ্যা এবং কমপক্ষে ১টি বড় হাতের অক্ষর থাকবে, তারপর 'Continue'-তে ট্যাপ করুন। এরপর, Binance আপনাকে ৬ দিনের একটি ইমেল পাঠাবে।"
+            "en": "After clicking the 'Register' button, you will need to proceed by entering the verification code sent to your email or mobile number. Next, you must create a password between 8 and 128 characters long, which must include at least one digit and one uppercase letter; then, tap the 'Continue' button. Once completed, you will see a green checkmark along with a \"Welcome Aboard\" message, indicating that your account is ready for use.",
+            "bn": "রেজিস্টার বাটোনে ক্লিক করার পর আপনার ইমেইলে অথবা মোবাইল নাম্বারে একটি ভেরিফিকেশন কোড যাবে যেটি  বসিয়ে কন্টিনিউ করতে হবে তারপর আপনাকে ৮ থেকে ১২৮ অক্ষরের একটি শক্তিশালী পাসওয়ার্ড তৈরি করতে হবে, যাতে কমপক্ষে ১টি সংখ্যা এবং কমপক্ষে ১টি বড় হাতের অক্ষর থাকতে হবে, তারপর 'চালিয়ে যান'-এ ট্যাপ করুন। কোডটি সঠিকভাবে যাচাই হয়ে গেলে, আপনি একটি সবুজ টিক চিহ্নসহ 'ওয়েলকাম অ্যাবোর্ড' স্ক্রিনটি দেখতে পাবেন, যার অর্থ আপনার বাইন্যান্স অ্যাকাউন্টটি ব্যবহারের জন্য প্রস্তুত।"
           },
           "screenshot": "./src/assets/images/Binance2.jpg",
           "screenshotCaption": {
